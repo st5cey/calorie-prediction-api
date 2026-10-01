@@ -1,0 +1,18 @@
+# Python cache & compiled files
+__pycache__/
+*.pyc
+
+# Environment & local settings
+.env
+venv/
+.venv/
+env/
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db

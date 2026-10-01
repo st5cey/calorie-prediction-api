@@ -1,0 +1,22 @@
+fastapi
+
+uvicorn
+
+pydantic
+
+pandas
+
+scikit-learn
+
+xgboost
+
+joblib
+
+requests
+
+
+
+
+
+pip install -r requirements.txt 
+
